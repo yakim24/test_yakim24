@@ -1,0 +1,6 @@
+body { width: 600px; /* Ширина блока */
+      margin: auto; /* центр боді*/
+      border: 2px solid silver; /* Параметры рамки */}
+.center {  text-align: center; }
+
+.div2{ margin: 0% 10% ;}
